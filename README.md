@@ -1,14 +1,15 @@
 # quiz_app
 
-A new Flutter project.
+That was my first experience with flutter (cross-platform) in mobile programming because I'm still at a beginner's level, and I'm trying to do my best.
+Use of Google Docs and YouTube is used to construct a new Flutter project.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+<img src="https://user-images.githubusercontent.com/101827986/225356884-2ebea198-aa52-433f-b01b-16bc5106c735.jpg" width='200' height='350'>
 
-![WhatsApp Image 2023-03-15 at 20 49 44](https://user-images.githubusercontent.com/101827986/225356884-2ebea198-aa52-433f-b01b-16bc5106c735.jpg)
 
-
+## Docus
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
